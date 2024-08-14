@@ -1,0 +1,6 @@
+-telechargement de allure un fichier .zip
+-verification de la version de Java
+variable d'environement:
+	decompresser le fichier allure.zip/trgz-->mettre le dossier decompresser dans c: --> verifier avec CMD est ce qu'on a la version de allure à l'aide de la commande allure --version
+	aller vers variable d'environement --> variable environement --> system variables --> double click sur path --> ajouter le path du dossier bin qui se trouve dans le dosser allure stoqué dans c:
+	sur visual studio --> pip install allure-robotframework
